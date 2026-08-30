@@ -30,7 +30,7 @@ employee-attrition-feature-engineering/
 
 1. Clone the repo:
    ```
-   git clone https://github.com/mitansh-shroff/-employee-attrition-feature-engineering
+   git clone https://github.com/mitansh-shroff/employee-attrition-feature-engineering
    cd employee-attrition-feature-engineering
    ```
 2. Install dependencies:
