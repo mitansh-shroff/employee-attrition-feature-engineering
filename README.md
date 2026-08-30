@@ -24,13 +24,13 @@ employee-attrition-feature-engineering/
 └── Summary.pdf                                    # Written summary & reflection
 ```
 
-> **Note:** The notebook loads the dataset with a relative path (`pd.read_csv('Employee_Attrition_Dataset.csv')`), so the `.csv` file must stay in the same folder as the notebook.
+> **Note:** The notebook loads the dataset with a relative path, so the `.csv` file must stay in the same folder as the notebook.
 
 ## How to Run
 
 1. Clone the repo:
    ```
-   git clone <your-repo-url>
+   git clone https://github.com/mitansh-shroff/-employee-attrition-feature-engineering
    cd employee-attrition-feature-engineering
    ```
 2. Install dependencies:
